@@ -5,7 +5,7 @@ import (
 
 	// "github.com/gin-gonic/gin"
 
-	"github.com/technog2/test-gin/router/router"
+	"github.com/technog2/test-gin/router"
 )
 
 func main() {
